@@ -1,0 +1,9 @@
+resources/Rmarkdown-examples/e*.html
+resources/Rmarkdown-examples/e*.pdf
+resources/Rmarkdown-examples/e*.docx
+resources/Rmarkdown-examples/e*.png
+resources/Rmarkdown-examples/Example*.html
+resources/Rmarkdown-examples/Example*.pdf
+resources/Rmarkdown-examples/Example*.docx
+resources/Rmarkdown-examples/Example*.png
+resources/Rmarkdown-examples/base-r.png
